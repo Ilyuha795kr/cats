@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('image/fon.jpg');
+}
+
+h1{
+    background-color: white;
+    font-size: 250%;
+    font-weight: 1200;
+    font-family: sans-serif;
+    color: rgb(1, 14, 14);
+    text-align: center;
+}
+
+
+
+

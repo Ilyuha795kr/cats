@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url('image/1612752370_93-p-goluboi-fon-s-lapkami-136.jpg');
+}
+
+
+
+h1{
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+
+section{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    color: rgb(0, 0, 0);
+    border: 5px solid white;
+}
+
+.psr{
+    width: 66%;
+
+}
+.image{
+
+    width: 66%;
+}
+
+.header{
+    color: black;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+    text-align: center;
+}
+
+.wrapper{
+    position: relative;
+    width: 80%;
+    height: 20px;
+    background-color: blueviolet;
+    margin: 0 auto;
+
+}
+
+.catandshaurma{
+    position: absolute;
+    right: 0px;
+    top: 0;
+    width: 100px;
+    height: 100px;
+    border-radius: 49%;
+    display: block;
+}
+
+.btn{
+    color: rgb(158, 54, 54);
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 13px;
+    padding: 5px 3px 5px 3px;
+    margin: 20px;
+    background-color: aqua;
+    transition: .6s;
+}
+.btn:hover{
+    background-color: bisque;
+    color: black;
+}
+
+.header{
+    background-color: brown;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0%;
+    width: 100%;
+    list-style-type: none;
+}
+.header a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+.header a:hover{
+    color: black;
+    background: red;
+    padding: 10px;
+    border-radius: 13px;
+}
+
+
+
+
+
+
